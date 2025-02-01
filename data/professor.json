@@ -1,0 +1,22 @@
+[
+  {
+    "id": 1,
+    "name": "Dr. Smith",
+    "dept": "Computer Science"
+  },
+  {
+    "id": 2,
+    "name": "Dr. Johnson",
+    "dept": "Mathematics"
+  },
+  {
+    "id": 3,
+    "name": "Dr. Lee",
+    "dept": "Physics"
+  },
+  {
+    "id": 4,
+    "name": "Dr. Rahul",
+    "dept": "Computer Science"
+  }
+]

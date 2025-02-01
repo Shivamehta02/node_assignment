@@ -1,0 +1,6 @@
+[
+    { "stud_id": 1, "stud_name": "Alice", "stud_stream": "Engineering" },
+    { "stud_id": 2, "stud_name": "Bob", "stud_stream": "Medicine" },
+    { "stud_id": 3, "stud_name": "Charlie", "stud_stream": "Arts" },
+    { "stud_id": 4, "stud_name": "David", "stud_stream": "Science" }
+]
