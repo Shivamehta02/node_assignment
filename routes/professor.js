@@ -4,7 +4,7 @@ const router = express.Router();
 
 const filePath = './data/professor.json';
 
-// Read JSON file
+
 const readData = () => {
     try {
         return JSON.parse(fs.readFileSync(filePath, 'utf8'));
@@ -13,7 +13,7 @@ const readData = () => {
     }
 };
 
-// Write JSON file
+
 const writeData = (data) => {
     fs.writeFileSync(filePath, JSON.stringify(data, null, 2));
 };
